@@ -2,9 +2,9 @@
 My public codebook
 
 ```console
-  #!/bin/bash
-  # declare STRING variable
-  STRING="Hello World"
-  #print variable on a screen
-  echo $STRING
+user@example:~$ cd $HOME
+user@example:~$ sudo apt-get install postfix libsasl2-modules bsd-mailx
+user@example:~$ sudo apt-get install haveged
+user@example:~$ sudo apt-get update && sudo apt-get upgrade
+user@example:~$ cd $HOME
 ```
