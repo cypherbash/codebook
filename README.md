@@ -1,12 +1,10 @@
 # codebook
 My public codebook
 
-```csharp
-  public class Hello1
-  {
-     public static void Main()
-    {
-        System.Console.WriteLine("Hello, World!");
-    }
-  }
+```console
+  #!/bin/bash
+  # declare STRING variable
+  STRING="Hello World"
+  #print variable on a screen
+  echo $STRING
 ```
